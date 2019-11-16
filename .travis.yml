@@ -15,6 +15,6 @@ deploy:
     secure: $AWS_SECRET_KEY
   region: "us-east-2"
   app: "docker-react"
-  bucket: "nilkesh123"
+  bucket: nilkesh123
   env: "DockerReact-env"
   
